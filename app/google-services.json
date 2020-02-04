@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295678788647",
+    "firebase_url": "https://filestoreintro.firebaseio.com",
+    "project_id": "filestoreintro",
+    "storage_bucket": "filestoreintro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295678788647:android:b5bbd59a8bd10d17fffa02",
+        "android_client_info": {
+          "package_name": "com.demo.filestoreintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295678788647-9baiapt967q3f9dkkc3rcf158hmunpuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.filestoreintro",
+            "certificate_hash": "4c57bae55d3f1ef0611a6da52b05edd15a47509c"
+          }
+        },
+        {
+          "client_id": "295678788647-v12klkje40t1m8a4898r9919aiiblb33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU1Jt2Q6AmvOFOcPtJwBrXinvg3f23cPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295678788647-v12klkje40t1m8a4898r9919aiiblb33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
